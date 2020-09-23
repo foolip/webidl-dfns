@@ -1,0 +1,3 @@
+[submodule "webref"]
+	path = webref
+	url = https://github.com/foolip/webref.git
